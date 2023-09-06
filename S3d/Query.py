@@ -45,38 +45,11 @@ from ssl import create_default_context
 
 # The following code accesses a file in your IBM Cloud Object Storage. It includes your credentials.
 # You might want to remove those credentials before you share your notebook.
-s3 = ibm_boto3.resource(service_name='s3',
-    ibm_api_key_id='Bf1YuaPIEnK1HFbAx3Res6OV_womxKSv3ZwpQb7cfOKe',
-    ibm_auth_endpoint="https://iam.ng.bluemix.net/oidc/token",
-    config=Config(signature_version='oauth'),
-    endpoint_url='https://s3.us-east.objectstorage.service.networklayer.com')
-bucket_name = 'tables-for-annotation'
-bucket = s3.Bucket(bucket_name)
-context = create_default_context(
-   cadata = "-----BEGIN CERTIFICATE-----\n"+
-     "MIIDDzCCAfegAwIBAgIJANEH58y2/kzHMA0GCSqGSIb3DQEBCwUAMB4xHDAaBgNV\n"+
-     "BAMME0lCTSBDbG91ZCBEYXRhYmFzZXMwHhcNMTgwNjI1MTQyOTAwWhcNMjgwNjIy\n"+
-     "MTQyOTAwWjAeMRwwGgYDVQQDDBNJQk0gQ2xvdWQgRGF0YWJhc2VzMIIBIjANBgkq\n"+
-     "hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8lpaQGzcFdGqeMlmqjffMPpIQhqpd8qJ\n"+
-     "Pr3bIkrXJbTcJJ9uIckSUcCjw4Z/rSg8nnT13SCcOl+1to+7kdMiU8qOWKiceYZ5\n"+
-     "y+yZYfCkGaiZVfazQBm45zBtFWv+AB/8hfCTdNF7VY4spaA3oBE2aS7OANNSRZSK\n"+
-     "pwy24IUgUcILJW+mcvW80Vx+GXRfD9Ytt6PRJgBhYuUBpgzvngmCMGBn+l2KNiSf\n"+
-     "weovYDCD6Vngl2+6W9QFAFtWXWgF3iDQD5nl/n4mripMSX6UG/n6657u7TDdgkvA\n"+
-     "1eKI2FLzYKpoKBe5rcnrM7nHgNc/nCdEs5JecHb1dHv1QfPm6pzIxwIDAQABo1Aw\n"+
-     "TjAdBgNVHQ4EFgQUK3+XZo1wyKs+DEoYXbHruwSpXjgwHwYDVR0jBBgwFoAUK3+X\n"+
-     "Zo1wyKs+DEoYXbHruwSpXjgwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOC\n"+
-     "AQEAJf5dvlzUpqaix26qJEuqFG0IP57QQI5TCRJ6Xt/supRHo63eDvKw8zR7tlWQ\n"+
-     "lV5P0N2xwuSl9ZqAJt7/k/3ZeB+nYwPoyO3KvKvATunRvlPBn4FWVXeaPsG+7fhS\n"+
-     "qsejmkyonYw77HRzGOzJH4Zg8UN6mfpbaWSsyaExvqknCp9SoTQP3D67AzWqb1zY\n"+
-     "doqqgGIZ2nxCkp5/FXxF/TMb55vteTQwfgBy60jVVkbF7eVOWCv0KaNHPF5hrqbN\n"+
-     "i+3XjJ7/peF3xMvTMoy35DcT3E2ZeSVjouZs15O90kI3k2daS2OHJABW0vSj4nLz\n"+
-     "+PQzp/B9cQmOO8dCe049Q3oaUA==\n"+
-     "-----END CERTIFICATE-----")
+s3 = ibm_boto3.resource()
 
 es = Elasticsearch(
-    ['e055b946-0f9c-44ee-bd74-550a416ee2a7.b8a5e798d2d04f2e860e54e5d042c915.databases.appdomain.cloud'],
-    http_auth=('ibm_cloud_0270a36f_ce40_44af_8d39_286c95d54770',
-               '464d53e422ff088ffa70b754a7d2e5b7b0c96808bcc4024f05604fb842dd8040'),
+    [''],
+    http_auth=(<auth>),
     scheme="https",
     port=31728,
     ssl_context=context,
