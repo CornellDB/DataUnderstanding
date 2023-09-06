@@ -1,0 +1,9 @@
+NewTable0, 11 InputTable:Country,Country Code (3-character),Country Code (2-character),Currency,Currency Code,
+NewTable1, 11 InputTable:Country,Land area (km2) [49],GDP nominal (US$M)[50],Per capita GDP (US$)[51],Population[52],Government[53],Conscription[54],
+NewTable2, 11 InputTable:Country,Population,Members,Pop/Mem Ratio,Unnamed: 4,
+
+InputTable:C1,C2,C3
+
+NewTable3, 11 InputTable:ENTITY,CURRENCY,ALPHABETIC CODE,NUMERIC CODE,
+NewTable4, 11 InputTable:Country,Currency Name / Currency Code,Rate Bank Will Buy From You:,Rate Bank Will Sell To You:,
+NewTable5, 11 InputTable:State, Province, Territory, Country, etc,Area (square miles),Comments,

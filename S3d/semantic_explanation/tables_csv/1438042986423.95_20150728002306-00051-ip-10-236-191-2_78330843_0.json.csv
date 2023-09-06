@@ -1,0 +1,120 @@
+ф╗гхП╖,шпнц│Х,хПВшАГ
+T_ABSTRACT,abstract,цК╜ш▒бч▒╗я╝ИшЗк PHP 5.0.0 ш╡╖хПпчФия╝Й
+T_AND_EQUAL,&=,ш╡ЛхА╝ш┐РчоЧчмж
+T_ARRAY,array(),array()я╝МцХ░ч╗Дшпнц│Х
+T_ARRAY_CAST,(array),ч▒╗хЮЛш╜мцНв
+T_AS,as,foreach
+T_BAD_CHARACTER,,хЬи ASCII 32 ф╣ЛхЙНщЩдф║Ж \t (0x09) \n (0x0a) хТМ \r (0x0d) ф╗ехдЦчЪДф╗╗ф╜ХхнЧчмж
+T_BOOLEAN_AND,&&,щА╗ш╛Сш┐РчоЧчмж
+T_BOOLEAN_OR,||,щА╗ш╛Сш┐РчоЧчмж
+T_BOOL_CAST,(bool) цИЦ (boolean),ч▒╗хЮЛш╜мцНв
+T_BREAK,break,break
+T_CASE,case,switch
+T_CATCH,catch,х╝Вх╕╕хдДчРЖя╝ИшЗк PHP 5.0.0 ш╡╖хПпчФия╝Й
+T_CHARACTER,,
+T_CLASS,class,ч▒╗хТМхп╣ш▒б
+T_CLONE,clone,ч▒╗хТМхп╣ш▒буАВф╗ЕчФиф║О PHP 5уАВ
+T_CLOSE_TAG,?> цИЦ %>,
+T_COMMENT,// цИЦ #я╝Мф╗ехПК PHP 5 ф╕ЛчЪД /* */,ц│ищЗК
+T_CONCAT_EQUAL,.=,ш╡ЛхА╝ш┐РчоЧчмж
+T_CONST,const,
+T_CONSTANT_ENCAPSED_STRING,"foo" цИЦ 'bar',хнЧчмжф╕▓шпнц│Х
+T_CONTINUE,continue,
+T_CURLY_OPEN,,
+T_DEC,--,щАТхвЮ/щАТхЗПш┐РчоЧчмж
+T_DECLARE,declare,declare
+T_DEFAULT,default,switch
+T_DIV_EQUAL,/=,ш╡ЛхА╝ш┐РчоЧчмж
+T_DNUMBER,0.12я╝МчнЙчнЙ,ц╡очВ╣цХ░
+T_DOC_COMMENT,/** */,PHPDoc щгОца╝чЪДц│ищЗКя╝Иф╗ЕчФиф║О PHP 5я╝Й
+T_DO,do,do..while
+T_DOLLAR_OPEN_CURLY_BRACES,${,хдНцЭВхПШщЗПшзгцЮРшпнц│Х
+T_DOUBLE_ARROW,=>,цХ░ч╗Дшпнц│Х
+T_DOUBLE_CAST,(real) (double) цИЦ (float),ч▒╗хЮЛш╜мцНв
+T_DOUBLE_COLON,::,шзБф╕ЛщЭвчЪД T_PAAMAYIM_NEKUDOTAYIM
+T_ECHO,echo,echo
+T_ELSE,else,else
+T_ELSEIF,elseif,elseif
+T_EMPTY,empty,empty()
+T_ENCAPSED_AND_WHITESPACE,,
+T_ENDDECLARE,enddeclare,declareя╝МцЫ┐ф╗гшпнц│Х
+T_ENDFOR,endfor,forя╝МцЫ┐ф╗гшпнц│Х
+T_ENDFOREACH,endforeach,foreachя╝МцЫ┐ф╗гшпнц│Х
+T_ENDIF,endif,ifя╝МцЫ┐ф╗гшпнц│Х
+T_ENDSWITCH,endswitch,switchя╝МцЫ┐ф╗гшпнц│Х
+T_ENDWHILE,endwhile,whileя╝МцЫ┐ф╗гшпнц│Х
+T_END_HEREDOC,,heredoc шпнц│Х
+T_EVAL,eval(),eval()
+T_EXIT,exit цИЦ die,exit() die()
+T_EXTENDS,extends,extendsя╝Мч▒╗хТМхп╣ш▒б
+T_FILE,__FILE__,х╕╕щЗП
+T_FINAL,final,Final хЕ│щФохнЧя╝ИшЗк PHP 5.0.0 ш╡╖хПпчФия╝Й
+T_FOR,for,for
+T_FOREACH,foreach,foreach
+T_FUNCTION,function цИЦ cfunction,хЗ╜цХ░
+T_GLOBAL,global,хПШщЗПшМГхЫ┤
+T_HALT_COMPILER,__halt_compiler(),__halt_compilerя╝ИшЗк PHP 5.1.0 ш╡╖хПпчФия╝Й
+T_IF,if,if
+T_IMPLEMENTS,implements,хп╣ш▒бцОехПгя╝ИшЗк PHP 5.0.0 ш╡╖хПпчФия╝Й
+T_INC,++,щАТхвЮя╝ПщАТхЗПш┐РчоЧчмж
+T_INCLUDE,include(),include
+T_INCLUDE_ONCE,include_once(),include_once
+T_INLINE_HTML,,
+T_INSTANCEOF,instanceof,type operatorsя╝Иф╗Е PHP5я╝Й
+T_INT_CAST,(int) цИЦ (integer),ч▒╗хЮЛш╜мцНв
+T_INTERFACE,interface,хп╣ш▒бцОехПгя╝ИшЗк PHP 5.0.0 ш╡╖хПпчФия╝Й
+T_ISSET,isset(),isset()
+T_IS_EQUAL,==,цпФш╛Гш┐РчоЧчмж
+T_IS_GREATER_OR_EQUAL,>=,цпФш╛Гш┐РчоЧчмж
+T_IS_IDENTICAL,===,цпФш╛Гш┐РчоЧчмж
+T_IS_NOT_EQUAL,!= or <>,цпФш╛Гш┐РчоЧчмж
+T_IS_NOT_IDENTICAL,!==,цпФш╛Гш┐РчоЧчмж
+T_IS_SMALLER_OR_EQUAL,<=,цпФш╛Гш┐РчоЧчмж
+T_LINE,__LINE__,х╕╕щЗП
+T_LIST,list(),list()
+T_LNUMBER,123я╝М012я╝М0x1acя╝МчнЙчнЙ,цХ┤хЮЛ
+T_LOGICAL_AND,and,щА╗ш╛Сш┐РчоЧчмж
+T_LOGICAL_OR,or,щА╗ш╛Сш┐РчоЧчмж
+T_LOGICAL_XOR,xor,щА╗ш╛Сш┐РчоЧчмж
+T_MINUS_EQUAL,-=,ш╡ЛхА╝ш┐РчоЧчмж
+T_ML_COMMENT,/* хТМ */,ц│ищЗКя╝Иф╗ЕчФиф║О PHP 4я╝Й
+T_MOD_EQUAL,%=,ш╡ЛхА╝ш┐РчоЧчмж
+T_MUL_EQUAL,*=,ш╡ЛхА╝ш┐РчоЧчмж
+T_NEW,new,ч▒╗хТМхп╣ш▒б
+T_NUM_STRING,,
+T_OBJECT_CAST,(object),ч▒╗хЮЛш╜мцНв
+T_OBJECT_OPERATOR,->,ч▒╗хТМхп╣ш▒б
+T_OPEN_TAG,,ф╗О HTML ш╜мф╣Й
+T_OPEN_TAG_WITH_ECHO,,ф╗О HTML ш╜мф╣Й
+T_OR_EQUAL,|=,ш╡ЛхА╝ш┐РчоЧчмж
+T_PAAMAYIM_NEKUDOTAYIM,::,::уАВф╣ЯхоЪф╣Йф╕║ T_DOUBLE_COLONуАВ
+T_PLUS_EQUAL,+=,ш╡ЛхА╝ш┐РчоЧчмж
+T_PRINT,print(),print
+T_PRIVATE,private,ч▒╗хТМхп╣ш▒буАВф╗ЕчФиф║О PHP 5уАВ
+T_PUBLIC,public,ч▒╗хТМхп╣ш▒буАВф╗ЕчФиф║О PHP 5уАВ
+T_PROTECTED,protected,ч▒╗хТМхп╣ш▒буАВф╗ЕчФиф║О PHP 5уАВ
+T_REQUIRE,require(),require
+T_REQUIRE_ONCE,require_once(),require_once
+T_RETURN,return,ш┐ФхЫЮхА╝
+T_SL,<<,ф╜Нш┐РчоЧчмж
+T_SL_EQUAL,<<=,ш╡ЛхА╝ш┐РчоЧчмж
+T_SR,>>,ф╜Нш┐РчоЧчмж
+T_SR_EQUAL,>>=,ш╡ЛхА╝ш┐РчоЧчмж
+T_START_HEREDOC,<<<,heredoc шпнц│Х
+T_STATIC,static,хПШщЗПшМГхЫ┤
+T_STRING,,
+T_STRING_CAST,(string),ч▒╗хЮЛш╜мцНв
+T_STRING_VARNAME,,
+T_SWITCH,switch,switch
+T_THROW,throw,х╝Вх╕╕хдДчРЖя╝ИшЗк PHP 5.0.0 ш╡╖хПпчФия╝Й
+T_TRY,try,х╝Вх╕╕хдДчРЖя╝ИшЗк PHP 5.0.0 ш╡╖хПпчФия╝Й
+T_UNSET,unset(),unset()
+T_UNSET_CAST,(unset),я╝ИцЧацЦЗцбг; ч▒╗хЮЛф╕║ NULLя╝Й
+T_USE,use,я╝ИцЬкхоЮчО░я╝Й
+T_VAR,var,ч▒╗хТМхп╣ш▒б
+T_VARIABLE,$foo,хПШщЗП
+T_WHILE,while,whileя╝Мdo..while
+T_WHITESPACE,,
+T_XOR_EQUAL,^=,ш╡ЛхА╝ш┐РчоЧчмж
+T_FUNC_C,__FUNCTION__,х╕╕щЗПя╝МшЗк PHP 4.3.0 ш╡╖хПпчФи
+T_CLASS_C,__CLASS__,х╕╕щЗПя╝МшЗк PHP 4.3.0 ш╡╖хПпчФи

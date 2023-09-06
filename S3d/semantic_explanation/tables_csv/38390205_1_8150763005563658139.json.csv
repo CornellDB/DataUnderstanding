@@ -1,0 +1,55 @@
+Province,Ville,HЇpital,Participation,Option*
+Colombie-Britannique,Vancouver,Vancouver General Hospital,Oui,3
+,Vancouver,Richmond General Hospital,Oui,3
+,Vancouver,LionТs Gate,Oui,3
+,Vancouver,Powell River,Oui,3
+,Vancouver,St. MaryТs Hospital,Oui,3
+,Vancouver,Squamish Hospital,,3
+,Vancouver,Victoria General,,3
+,Vancouver,Royal Jubilee,,
+,Vancouver,ChildrenТs and WomenТs Health Center,,
+Alberta,Calgary,Peter Lougheed,,
+,Calgary,Rockyview General,,
+,Calgary,Foothills Hospital,,
+,Calgary,Alberta ChildrenТs Hospital,Oui,Pщd VENЖ
+,Calgary,Rockyview Hospital,,
+,Edmonton,University of Alberta Hospital,Oui,3
+,Edmonton,Stollery ChildrenТs Hospital,Oui,Pщd VENЖ
+Saskatchewan,Saskatoon,Royal University Hospital,Oui,3
+Manitoba,Winnipeg,,Oui,3
+,Winnipeg,Universitщ du Manitoba Maladies infectieuses pщdiatriques,Oui,Pщd VENЖ
+Ontario,London,St. JosephТs Health care,,
+,London,ChildrenТs Hospital of Western Ontario,,
+,London,Victoria Hospital,,
+,London,University Hospital,,
+,Toronto,Toronto Western Hospital,Oui,3
+,Toronto,Toronto General Hospital,,
+,Toronto,Princess Margaret Hospital,,
+,Toronto,Mount Sinai Hospital,Oui,3
+,Toronto,Sunnybrook Health Science Centre,Oui,1
+,Toronto,The Hospital for Sick Children,Oui,Pщd VENЖ
+,Kingston,Kingston General Hospital,,
+,Hamilton,Hamilton Health Sciences Centre,Oui,3
+,Hamilton,McMaster Site,Non,
+,Hamilton,Chedoke,Non,
+,Hamilton,Henderson & General Sites,Non,
+,Hamilton,St. JosephТs Healthcare,Oui,1
+,Ottawa,LТHЇpital dТOttawa,Oui,(Sept)
+,Ottawa,Campus Civic,Oui,
+,Ottawa,Institut gщnщral et de cardiologie,Oui,
+,Ottawa,Centre hospitalier pour enfants de l'Est de l'Ontario,Oui,Pщd VENЖ
+Quщbec,Montrщal,HЇpital gщnщral juif Ц SMBD,Oui,3
+,Montrщal,HЇpital de Montrщal pour enfants,Oui,Pщd VENЖ
+,Montrщal,HЇpital Maisonneuve-Rosemont,,
+,Montrщal,HЇpital gщnщral de Montrщal,Oui,3
+,Montrщal,HЇpital Royal Victoria,Oui,3
+,Montrщal,Institut neurologique de Montrщal,Oui,3
+,Montrщal,Institut thoracique de Montrщal,Oui,3
+,Sherbrooke,CHUS HЇpital Fleurimont,Non,
+,Quщbec City,HЇtel-Dieu de Quщbec du CHUQ,Non,
+Nouveau-Brunswick,Moncton,The Moncton Hospital,Oui,3
+Nouvelle-╔cosse,Halifax,QEII Health Sciences Centre,Oui,3
+,Halifax,IWK Health Centre,Oui,Pщd VENЖ
+Terre-Neuve-et-Labrador,St JohnТs,Health care Corp. of St. JohnТs General & Miller Sites,,
+,St JohnТs,Janeway Site,,
+,St JohnТs,St. Clare Site,,

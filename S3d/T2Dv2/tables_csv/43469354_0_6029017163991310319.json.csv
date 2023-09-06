@@ -1,0 +1,151 @@
+World rank,City,Country,City population,Metro population,Mayor
+1,Karachi,Pakistan,15500000,18000000,Fazlur Rehman
+2,Shanghai,China,14900000,19200000,Han Zheng
+3,Mumbai (Bombay),India,13900000,21200000,Shraddha Jadhav
+4,BEIJING,China,12460000,17550000,Guo Jinlong
+5,DELHI,India,12100000,16713000,Kanwar Sain
+6,BUENOS AIRES,Argentina,11655000,12924000,Mauricio Macri
+7,MANILA METRO,Philippines,11550000,13503000,Alfredo S Lim
+8,SEOUL,South Korea,11153000,24472000,Oh Se-hoon
+9,Sao Paulo,Brazil,11038000,19890000,Gilberto Kassab
+10,MOSCOW,Russia,10524000,14800000,Sergei Sobyanin
+11,JAKARTA,Indonesia,10100000,24100000,Fauzi Bowo
+12,Istanbul,Turkey,9560000,12600000,Kadir Topbas
+13,BANGKOK,Thailand,9100000,11970000,Sukhumbhand Paribatra
+14,MEXICO CITY,Mexico,8841000,21163000,Marcelo Ebrard
+15,TOKYO,Japan,8653000,31036000,Shintaro Ishihara
+16,TEHRAN,Iran,8430000,13450000,Mohammad Bagher Ghalibaf
+17,New York City,USA,8364000,20090000,Michael Bloomberg
+18,KINSHASA,Congo D.R.,8200000,10100000,Andrщ Kimbuta Yango
+19,DHAKA,Bangladesh,7940000,12797000,Sadeque Hossain Khosa
+20,Lagos,Nigeria,7938000,9123000,n/k
+21,CAIRO,Egypt,7764000,15546000,Abdul Azim Wazir
+22,LIMA,Peru,7606000,8473000,Susana Villaran
+23,LONDON,UK,7557000,12200000,Boris Johnson
+24,Tianjin,China,7500000,11750000,Huang Xingguo
+25,BOGOTA,Colombia,7320000,8361000,Samuel Moreno Rojas
+26,Ho Chi Minh City,Vietnam,7100000,,Pham Phuong Thao
+27,Hong Kong,China,7055000,,Donald Tsang
+28,Guangzhou,China,6458000,10182000,Wan Qingliang
+29,Dongguan,China,6446000,7650000,Li Yuquan
+30,Lahore,Pakistan,6100000,8600000,Mian Amir Mahmood
+31,Rio de Janeiro,Brazil,6093000,14387000,Eduardo Paes
+32,Baghdad,Iraq,6050000,6500000,Sabir al-Issawi
+33,Bangalore,India,5840000,6562000,SK Nataraj
+34,Surat,India,5390000,6347000,Rajendra Desai
+35,SANTIAGO,Chile,5278000,6677000,Pablo Zalaquett Said
+36,Kolkata,India,5100000,15420000,Bikash Ranjan Bhattacharya
+37,Shenyang,China,5090000,7760000,Li Yingjie
+38,Chongqing,China,5087000,9700000,Huang Qifan
+39,SINGAPORE,Singapore,4988000,,Lee Hsien Loong
+40,RIYADH,Saudi Arabia,4950000,5855000,Abdul Aziz ibn 'Ayyaf Al Migrin
+41,LUANDA,Angola,4799000,5500000,Josщ Maria Ferraz dos Santos
+42,Harbin,China,4755000,9874000,Zhang Xiaolian
+43,St Petersburg,Russia,4661000,4900000,Valentina Matviyenko
+44,Chennai,India,4600000,7330000,M Subramaniam
+45,Ahmadabad,India,4525000,6168000,Kanaji Thakor
+46,Wuhan,China,4500000,6200000,Ruan Chengfa
+47,Yangon,Myanmar (Burma),4468000,5.500000,Aung Thein Lynn
+48,Sydney,Australia,4400000,,Clover Moore
+49,Chengdu,China,4334000,11000000,Ge Honglin
+50,Shenzhen,China,4320000,8616000,Xy Qin
+51,Nanjing,China,4150000,7600000,Ji Jianye
+52,Alexandria,Egypt,4110000,4350000,Adel Labib
+53,Johannesburg,South Africa,3888000,10268000,Amos Masondo
+54,Jeddah,Saudi Arabia,3856000,4500000,Adil Faqeeh
+55,Los Angeles,USA,3834000,12890000,Antonio Villaraigosa
+56,Abidjan,Ivory Coast,3800000,4000000,Pierre Djщdji Amondji
+57,ANKARA,Turkey,3764000,4000000,Melih GЎkчek
+58,Casablanca,Morocco,3673000,3850000,Mohammed Sajid
+59,Yokohama,Japan,3655000,,Fumiko Hayashi
+60,Hyderabad,India,3637000,6290000,Banda Karthika Reddy
+61,Melbourne,Australia,3635000,,Robert Doyle
+62,Kano,Nigeria,3626000,3900000,Ibrahim Shekarau
+63,Busan,South Korea,3600000,4292000,Hur Nam-sik
+64,KABUL,Afghanistan,3586000,4000000,Mohammad Yunus Noandesh
+65,Changchun,China,3581000,7460000,Cui Jie
+66,Cape Town,South Africa,3497000,7280000,Patricia de Lille
+67,Guiyang,China,3450000,,Yuan Zhou
+68,BERLIN,Germany,3432000,3943000,Klaus Wowereit
+69,Hangzhou,China,3408000,6776000,Cai Qi
+70,ADDIS ABABA,Ethiopia,3385000,4568000,Kuma Demeksa
+71,Pune,India,3337000,4470000,Mohansingh Rajpal
+72,PYONGYANG,North Korea,3255000,3400000,n/k
+73,MADRID,Spain,3213000,5300000,Alberto Ruiz-Gallardєn
+74,NAIROBI,Kenya,3130000,3300000,Geoffrey Majiwa
+75,Kanpur,India,3100000,4865000,Ravindra Patani
+76,Kunming,China,3100000,6800000,Zhang Zulin
+77,Surabaya,Indonesia,3100000,3700000,Bambang D H
+78,Jaipur,India,3050000,5690000,Jyoti Khandelwal
+79,Salvador da Bahia,Brazil,2998000,3173000,Joуo Henrique Carneiro
+80,SANTO DOMINGO,Dominican Republic,2989000,3813000,Roberto Salcedo
+81,Mashhad,Iran,2910000,3000000,Mohammad Pejman
+82,Chicago,USA,2853000,8770000,Rahm Emanuel
+83,Zibo,China,2850000,4200000,Liu Huiyan
+84,KIEV,Ukraine,2820000,3300000,Alexander Popov
+85,Durg,India,2810000,,Dr Shiv Kumar Tamer
+86,Huludao,China,2787000,,Sun Zhaolin
+87,CARACAS,Venezuela,2762000,3478000,Antonio Ledezma
+88,Qingdao,China,2755000,7580000,Xia Geng
+89,Changsha,China,2744000,6140000,Zhang Jiangfei
+90,ROME,Italy,2732000,3555000,Gianni Alemanno
+91,Fuzhou (Fujian),China,2710000,6630000,Yuan Rongxiang
+92,Quezon City,Philippines,2680000,,Herbert M Bautis
+93,Xian,China,2670000,4480000,Chen Baogen
+94,Port Harcourt,Nigeria,2667000,3761000,Azubuike Nmerukini
+95,Osaka,Japan,2647000,17590000,Kunio Hiramatsu
+96,Incheon,South Korea,2630000,2630000,Song Young-gil
+97,Shijiazhuang,China,2630000,9600000,Ai Wenli
+98,TAIPEI,Taiwan,2620000,6753000,Hau Lung-pin
+99,Zhengzhou,China,2600000,4510000,Zhao Jiancai
+100,Chittagong,Bangladesh,2580000,3858000,Mohammed Manjur Alam
+101,Toronto,Canada,2571000,5100000,Rob Ford
+102,Ibadan,Nigeria,2550000,3000000,Adebayo Alao-Akala
+103,Taiyuan,China,2550000,3400000,Zhang Bingsheng
+104,Cali,Colombia,2525000,2801000,Jorge Ivan Ospina
+105,Daegu,South Korea,2512000,,Kim Bum-il
+106,Bandung,Indonesia,2510000,3829000,Dada Rosada
+107,Faisalabad,Pakistan,2510000,5081000,Rana Zahid Tauseef
+108,Fortaleza,Brazil,2506000,3415000,Luizianne Lins
+109,Baoshan,China,2500000,,Xiong Qinghua
+110,DAR ES SALAAM,Tanzania,2498000,2700000,Adam Kimbisa
+111,Zhongshan,China,2495000,,n/k
+112,Xiamen,China,2490000,,Liu Cigui
+113,Chaoyang,China,2471000,,Zhang Tiemin
+114,Belo Horizonte,Brazil,2453000,5397000,Marcio Lacerda
+115,Nanning,China,2450000,6480000,Huang Fangfang
+116,HAVANA,Cuba,2430000,3700000,Juan Contino Aslсn
+117,Nagpur,India,2420000,,Archana Dehankar
+118,Omdurman,Sudan,2400000,,Al-Fatih Az-ddin
+119,Suzhou,China,2383000,6298000,Yan Li
+120,Aleppo,Syria,2360000,3000000,Ma'an Al-Shibli
+121,Lucknow,India,2342000,2686000,Dinesh Sharma
+122,Izmir,Turkey,2330000,3796000,Aziz Kocaoglu
+123,Linyi,China,2300000,10080000,Lian Chengmin
+124,Dalian,China,2270000,3478000,Li Wancai
+125,Nagoya,Japan,2260000,9250000,Takashi Kawamura
+126,Houston,USA,2242000,5728000,Annise Parker
+127,Giza,Egypt,2225000,2600000,n/k
+128,Medellin,Colombia,2223000,3312000,Alonso Salazar Jaramillo
+129,KHARTOUM,Sudan,2208000,7500000,Abdul Rahman Alkheder
+130,Ningbo,China,2201000,5600000,Mao Guanglie
+131,Guayaquil,Ecuador,2196000,2686000,Jaime Nebot
+132,TASHKENT,Uzbekistan,2180000,3400000,Abdukahar Tuhtayev
+133,PARIS,France,2113000,11769000,Bertrand Delanoы
+134,BRASILIA,Brazil,2089000,2090000,Josщ Roberto Arruda
+135,Lanzhou,China,2088000,3300000,Zhang Jinliang
+136,Changzhou,China,2086000,3570000,Wang Weicheng
+137,Monterrey,Mexico,2057000,3650000,Fernando Larrazabal
+138,BAKU,Azerbaijan,2040000,2072000,Hajibala Abutalybov
+139,Kowloon,China,2020000,2200000,Wong Kwok-keung
+140,BUCHAREST,Romania,1994000,2151000,Sorin Oprescu
+141,Medan,Indonesia,1990000,2390000,Rahudman Harahap
+142,Tangshan,China,1980000,7100000,Zhang Guodong
+143,Jilin,China,1953000,4523000,Zhang Xiaopei
+144,Nanchong,China,1950000,7300000,Liu Hongjian
+145,CONAKRY,Guinea,1931000,,Mamadou Wasco Camara
+146,AMMAN,Jordan,1919000,2524000,Omar Maani
+147,Indore,India,1912000,1920000,Krishna Murari Moghe
+148,Sapporo,Japan,1906000,2130000,Fumio Ueda
+149,Jinan,China,1900000,2444000,Zhang Jianguo
+150,Puebla,Mexico,1888000,2500000,Blanca Alcala Ruiz
